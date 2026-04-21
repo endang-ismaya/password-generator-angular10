@@ -1,1 +1,6 @@
-@import "./../node_modules/bulma/css/bulma.css";
+.password-generator-container {
+  display: flex;
+  justify-content: center;
+  padding: 2rem;
+  min-height: calc(100vh - 4rem);
+}
